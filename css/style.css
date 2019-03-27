@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.row {
+    font-size: 3em;
+    color: rgb(228, 181, 53);
+    position: relative;
+}
+
+.circle {
+    background-color: rgba(160, 153, 153, 0.3);
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    top:-2%;
+    left:-2%
+}
+
+#scils {
+    font-size: 4.2em;
+	text-transform: uppercase;
+	margin: 0;
+    color: rgba(160, 153, 153, 1);;
+    text-align: center;
+}
+
